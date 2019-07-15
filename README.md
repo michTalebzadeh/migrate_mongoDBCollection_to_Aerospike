@@ -1,5 +1,5 @@
 # migrate_mongoDBCollection_to_Aerospike
-Example of migrating a mongoDB collection documents to Aerospike Set using Spark at ETL tool
+Example of migrating a mongoDB collection documents to Aerospike Set using Spark as ETL tool
 You will the needed jar files as follows (at time of writing)
 aerospike-spark-assembly-1.1.2.jar
 mongo-spark-connector_2.11-2.3.0.jar
